@@ -1,0 +1,9 @@
+
+#2[1][normal.day]_Landmark_visibility||100701||113905||13.386041|| 52.530401|| C:\MOS\expectIMG\c2.png||------ fail
+#3[1][normal.day]_Rotate_around_landmark||100701||113947||104.063827|| 30.659552|| C:\MOS\expectIMG\c3.png||------ fail
+#1[1][normal.day]_Landmark_visibility||100701||114236||104.063827|| 30.659552|| C:\MOS\expectIMG\c1.png||------ pass
+#2[1][normal.day]_Landmark_visibility||100701||114314||13.386041|| 52.530401|| C:\MOS\expectIMG\c2.png||------ pass
+#3[1][normal.day]_Rotate_around_landmark||100701||114357||104.063827|| 30.659552|| C:\MOS\expectIMG\c3.png||------ fail
+#1[1][normal.day]_Landmark_visibility||100701||133235||104.063827|| 30.659552|| C:\MOS\expectIMG\c1.png||------ pass
+#2[1][normal.day]_Landmark_visibility||100701||133312||13.386041|| 52.530401|| C:\MOS\expectIMG\c2.png||------ pass
+#3[1][normal.day]_Rotate_around_landmark||100701||133349||104.063827|| 30.659552|| C:\MOS\expectIMG\c3.png||------ fail

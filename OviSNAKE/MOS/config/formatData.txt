@@ -1,0 +1,5 @@
+3[1][normal.day]_Rotate_around_landmark
+104.063827
+30.659552
+C:\MOS\expectIMG\c3.png
+

@@ -1,0 +1,8 @@
+Test_Name	Long	Lat	Config_Scheme	Client_Type	MapModel_Online	Depth	Z_Flip	Rotation	MARC_Lang	Show_Prefix	3D_Map	3D_Landmarks	Crosshair	Blocking	Mini_Map	Picture
+1[1][normal.day]_Landmark_visibility	104.063827	30.659552	pednav.night	CLIENT_TYPE_OVI	Check	9	45	20	GER	Check	Uncheck	Uncheck	Check	Uncheck	Uncheck	C:\MOS\expectIMG\c1.png
+2[1][normal.day]_Landmark_visibility	13.386041	52.530401	normal.day	CLIENT_TYPE_DEFAULT	Check	16	45	78	DUT	Check	Uncheck	Uncheck	Check	Uncheck	Uncheck	C:\MOS\expectIMG\c2.png
+3[1][normal.day]_Rotate_around_landmark	104.063827	30.659552	pednav.night	CLIENT_TYPE_DEFAULT	Uncheck	12	37	45	CHI	Uncheck	Uncheck	Check	Uncheck	Check	Uncheck	C:\MOS\expectIMG\c3.png
+Moscow_1	37.622592	55.753012	normal.day	CLIENT_TYPE_DEFAULT	Uncheck	16	65	0	CHI	Uncheck	Uncheck	Check	Uncheck	Check	Check	C:\MOS\expectIMG\c4.png
+Shanghai_1	121.418512	31.236351	pednav.night	CLIENT_TYPE_DEFAULT	Uncheck	14	0	0	CHI	Check	Uncheck	Uncheck	Check	Uncheck	Uncheck	C:\MOS\expectIMG\c5.png
+Shanghai_2	121.425981	31.239226	pednav.night	CLIENT_TYPE_DEFAULT	Uncheck	11	0	177	CHI	Check	Uncheck	Uncheck	Check	Uncheck	Uncheck	C:\MOS\expectIMG\c6.png
+Chengdu_1	104.029177	30.652711	normal.day	CLIENT_TYPE_DEFAULT	Uncheck	13	0	126	CHI	Check	Uncheck	Uncheck	Check	Uncheck	Uncheck	C:\MOS\expectIMG\c7.png
